@@ -1,10 +1,10 @@
 ﻿# Blender-PixelartCharacters
 
-##Bald Men
+## Bald Men
 ![Lysolek](Lysolek.png)
 
-##Zombie
+## Zombie
 
-##Priest
+## Priest
 
-##Nun
+## Nun
