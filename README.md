@@ -1,7 +1,7 @@
 ﻿# Blender-PixelartCharacters
 
 ## Bald Men
-![Lysolek](Lysolek.png)
+![Lysolek](Printscreeny/Lysolek.png)
 
 ## Zombie
 
