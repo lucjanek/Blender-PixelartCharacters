@@ -1,6 +1,6 @@
 ﻿# Blender-PixelartCharacters
 
-## Bald Men
+## Bald Guy
 ![Lysolek](Printscreeny/Lysolek.png)
 ![Lysolek1](Printscreeny/rzuty/Screenshot_1.png)
 ![Lysolek2](Printscreeny/rzuty/Screenshot_2.png)
